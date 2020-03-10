@@ -1,0 +1,10 @@
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/hmelberg/pandas_temporal_query
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
